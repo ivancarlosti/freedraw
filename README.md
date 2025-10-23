@@ -1,5 +1,5 @@
 # FreeDraw
-Draw for free
+A GitHub Pages project to host Excalidraw
 
 <!-- buttons -->
 [![Stars](https://img.shields.io/github/stars/ivancarlosti/freedraw?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/freedraw/stargazers)
@@ -14,7 +14,7 @@ Draw for free
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
 <!-- endbuttons -->
 
-xxx
+Free!!
 
 <!-- footer -->
 ---

@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main  # Deploy when pushing to main branch
+  schedule:
+    - cron: '28 3 * * *'
   workflow_dispatch:  # Allow manual trigger
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages

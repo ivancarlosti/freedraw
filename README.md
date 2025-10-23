@@ -2,15 +2,15 @@
 Draw for free
 
 <!-- buttons -->
-[![Stars](https://img.shields.io/github/stars/ivancarlosti/gwauditor?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/gwauditor/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/gwauditor?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
-[![Forks](https://img.shields.io/github/forks/ivancarlosti/gwauditor?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/gwauditor?label=Activity)](https://github.com/ivancarlosti/gwauditor/pulse)
-[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/gwauditor?label=Issues&color=orange)](https://github.com/ivancarlosti/gwauditor/issues)
-[![License](https://img.shields.io/github/license/ivancarlosti/gwauditor?label=License)](LICENSE)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/gwauditor?label=Last%20Commit)](https://github.com/ivancarlosti/gwauditor/commits)
-[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/gwauditor/security)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/gwauditor?tab=coc-ov-file)
+[![Stars](https://img.shields.io/github/stars/ivancarlosti/freedraw?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/freedraw/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/freedraw?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
+[![Forks](https://img.shields.io/github/forks/ivancarlosti/freedraw?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/freedraw?label=Activity)](https://github.com/ivancarlosti/freedraw/pulse)
+[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/freedraw?label=Issues&color=orange)](https://github.com/ivancarlosti/freedraw/issues)
+[![License](https://img.shields.io/github/license/ivancarlosti/freedraw?label=License)](LICENSE)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/freedraw?label=Last%20Commit)](https://github.com/ivancarlosti/freedraw/commits)
+[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/freedraw/security)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/freedraw?tab=coc-ov-file)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
 <!-- endbuttons -->
 

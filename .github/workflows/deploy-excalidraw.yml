@@ -44,6 +44,20 @@ jobs:
         env:
           NODE_ENV: production
       
+      # --- NEW STEP STARTS HERE ---
+      - name: Patch CSS to hide UI buttons
+        run: |
+          # 1. Move into the assets folder where the hashed CSS file lives
+          cd excalidraw-app/build/assets
+          
+          # 2. Append the new rule to the end of index-*.css
+          # We use a wildcard (*) so it works even if the random hash changes
+          echo "" >> index-*.css
+          echo ".excalidraw .excalidraw-ui-top-left, .excalidraw .excalidraw-ui-top-right { display: none !important; }" >> index-*.css
+          
+          echo "CSS patched successfully."
+      # --- NEW STEP ENDS HERE ---
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
